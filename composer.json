@@ -9,5 +9,7 @@
             "email": "sebastian@itstrategen.de"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.1"
+    }
 }

@@ -24,7 +24,7 @@ interface Comparable
      * @return bool true if they are equal, false otherwise
      * @see compareValue whose value being returned should be used to check the comparables equality.
      */
-    public function equals(Comparable $comparable, $typeSafe = true);
+    public function equals(Comparable $comparable, $typeSafe = true): bool;
 
     /**
      * Returns the value to being used to check the comparables equality.
