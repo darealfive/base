@@ -1,0 +1,13 @@
+{
+    "name": "darealfive/base",
+    "description": "Base collection of classes some \"darealfive\" repos may require to share functionality across them",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Sebastian Krein",
+            "email": "sebastian@itstrategen.de"
+        }
+    ],
+    "require": {}
+}
